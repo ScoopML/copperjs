@@ -1,3 +1,3 @@
 # pinkjs
-## An altenative to vue js 
+## An alternative to vue js 
 ## Development under progress
