@@ -1,4 +1,4 @@
-# pinkjs
+# copperjs
 # An faster and simpler alternative to react js
 # copperjs enables developer to build UI and manage states seamlessly
 ## Development under progress
