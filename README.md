@@ -1,7 +1,6 @@
 # copperjs
-# An faster and simpler alternative to react js
-# copperjs enables developer to build UI and manage states seamlessly
-## Development under progress
+# An faster and simpler alternative to react js.
+# copperjs enables developer to build UI and manage states seamlessly.
 
 
 ## Lets write hello world program using copper js
