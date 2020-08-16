@@ -5,8 +5,7 @@
 
 
 ## Lets write hello world program using copper js
-
-## Install
+# Install
 #  npm install copperjs --save
 
 # Hello World code using copper
