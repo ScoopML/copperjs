@@ -2,7 +2,7 @@
   "name": "copperjs",
   "version": "1.0.1",
   "description": "copperjs is a JavaScript library for creating user interfaces.",
-  "main": "./lib/dom.js",
+  "main": "./lib/index.js",
   "scripts": {
     "compile": "babel src --out-dir lib"
   },
