@@ -27,4 +27,4 @@ class HelloWorld extends Component {
 
 Copper.render(<HelloWorld/>, document.getElementById("root"))
 ```
-## Example App made with Copper :
+## Example App made with Copper : https://github.com/ScoopML/Examples-made-with-copper-js
