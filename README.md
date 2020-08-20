@@ -1,4 +1,4 @@
-# Copper [!test](https://codecov.io/github/boennemann/badges?branch=master)
+# Copper 
 
 An faster and simpler alternative to react js.
 copperjs enables developer to build UI and manage states seamlessly.
