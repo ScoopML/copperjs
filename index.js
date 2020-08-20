@@ -1,22 +1,3 @@
-// 1. createElement Stub
-// 2. createElement Basic Implementation
-// 3. createElement Handle true/false short circuiting
-// 4. createElement remove undefined nodes
-// 5. rendering native DOM elements along with children
-// 6. set dom attributes and events
-// 7. diffing two trees of native DOM elements 
-// 8. removing extra nodes
-// 9. rendering functional component
-// 10. passing props to functional component 
-// 11. functional component diffing (remove extra nodes)
-// 12. rendering stateful component 
-// 13. passing props to stateful component
-// 14. implement setState() method -> parameter as object
-// 15. implement the stub for lifecycle method (TODO)
-// 16. diffing stateful components  (ISSUE: new props coming as #text->object should be toString() in app)
-// 17. Adding support for ref (todo)
-// 18. More test cases, old and new types are different.
-// 19. Add support for passing style attributes as objects
 const Copper = function () {
   function createElement(type, attributes = {}, ...children) {
     let childElements = [].concat(...children).reduce((acc, child) => {
