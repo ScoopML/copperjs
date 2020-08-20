@@ -1,4 +1,5 @@
-# Copper ![test](https://forthebadge.com/images/badges/made-with-javascript.svg) ![test1](https://forthebadge.com/images/badges/built-with-love.svg)
+# Copper ![test](https://forthebadge.com/images/badges/made-with-javascript.svg) ![test1](https://forthebadge.com/images/badges/built-with-love.svg) [![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://www.npmjs.com/package/copperjs)
+
 
 An faster and simpler alternative to react js.
 copperjs enables developer to build UI and manage states seamlessly.
