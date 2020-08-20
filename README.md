@@ -1,15 +1,23 @@
-# copperjs ![test](https://forthebadge.com/images/badges/made-with-javascript.svg)
-# An faster and simpler alternative to react js.
-# copperjs enables developer to build UI and manage states seamlessly.
+# Copper
+
+An faster and simpler alternative to react js.
+copperjs enables developer to build UI and manage states seamlessly.
 
 
-## Lets write hello world program using copper js
-# Install
-#  npm install copperjs --save
+### Install
+```
+npm install Copperjs --save
+```
 
-# Hello World code using copper
+### Getting Started
 
-import copperjs, { createElement, Component } from 'copperjs'
+let's write 'Hello World':
+```
+1. npm install Copperjs --save
+
+2. write your code like React
+
+import Copper, { createElement, Component } from 'Copper'
 
 class HelloWorld extends Component {
     render() {
@@ -18,6 +26,4 @@ class HelloWorld extends Component {
 }
 
 Copper.render(<HelloWorld/>, document.getElementById("root"))
- 
- 
-# For Contributions contact me : harishsg99@gmail.com
+```
